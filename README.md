@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Darksied
 
 You can use the [editor on GitHub](https://github.com/nikhiltahalyani22/Darksied/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
